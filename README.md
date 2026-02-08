@@ -11,5 +11,5 @@ This project develops a two-stage actuarial pricing model for workers' compensat
 
 ## Files
 - `/analysis`: R scripts for each modeling phase
-- `/outputs/figures`: Visualizations of results
+- `/analysis/figures`: Visualizations of results
 - `/report`: Full technical writeup
